@@ -18,7 +18,7 @@ class TimeTrackerApp(ctk.CTk):
         super().__init__()
         
         self.title("Weekly Time Calculator")
-        self.geometry("650x250")
+        self.geometry("680x240")
 
         self.help_window = None
 
